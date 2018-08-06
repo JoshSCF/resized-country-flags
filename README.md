@@ -5,5 +5,5 @@ Flags for different countries that I have manually resized to 500x300 without si
 __How long did it take?__
 too long
 
-__Are you bored__
+__Are you bored?__
 yes
