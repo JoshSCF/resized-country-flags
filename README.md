@@ -7,3 +7,6 @@ too long
 
 __Are you bored?__
 yes
+
+__Is every country here?__
+158 of them, got very tedious after about 7 hours - i have all of the countries with at least a population of 1,000,000 that dont have some sort of controversy with what the current flag actually is and contains citizens that could potentially play my game
